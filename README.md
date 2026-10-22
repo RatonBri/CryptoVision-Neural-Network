@@ -8,8 +8,6 @@
 
 # Integrantes
 
-- Angel Flores 
-- Carolina Castro Gomez
 - Luis Fabian
 - Brisseth Surquislla Gamarra
 
